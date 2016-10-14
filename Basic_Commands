@@ -1,6 +1,10 @@
 Linux Basic Commands:
 #######################################################################################################
 
+Needs to know basic commands before learning Shell Scripting. These are the Basics commands. But you can learn as many commands to master Shell Scripting 
+
+#######################################################################################################
+
 1) cal - Displays Calender
    Ex : cal 04 1988 - Displays the past date with month , year
 
@@ -80,31 +84,4 @@ Linux Basic Commands:
 
 19) man - manual of commands 
     Ex : man ls -> list the use of ls comand & all the options
-
-20) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
