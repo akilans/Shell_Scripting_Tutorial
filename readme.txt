@@ -1,4 +1,4 @@
 ##########################
-Basics of Shell Scripting
+Basics of Linux Shell Scripting
 
 All the practice code are available !!!

@@ -1,0 +1,87 @@
+Linux Basic Commands:
+#######################################################################################################
+
+1) cal - Displays Calender
+   Ex : cal 04 1988 - Displays the past date with month , year
+
+2) date - Displays a date
+   Ex : date '+DATE:%d-%m-%Y' - Displays date with custom format [ 06-04-1988 ]
+   Ex : date '+DATE:%d-%m-%Y%nTIME:%H:%M:%S' - Displays date & time in the new line
+
+3) touch - Creats File
+   Ex : touch test.txt
+
+4) mkdir - Creats Directory
+   Ex : mkdir test_folder
+   
+
+5) cd - Change Directory
+   Ex : cd test_folder
+
+6) cat - Creates & view the contents of the file in the terminal
+   Ex : cat > test.txt - Creates the file called test.txt & fill the content of the file in the terminal
+   Ex : cat test.txt - view the contents in the terminial
+   Ex : cat test.txt > test_new.txt - Takes the content from test.txt & creates a new file test_new.txt with that content.
+        So in that way we can take contents from many files & create a new file
+
+7) mv - move, Rename files & directory
+   Ex : mv test.txt test_new.txt - renaming the file
+   Ex : mv test.txt test_folder\ - moves the file to test_folder
+
+8) rm - remove files & directory
+   Ex : rm test.txt - removes test.txt file
+   Ex : rm -rf test_folder - removes test_folder
+
+9) rmdir - removes an empty directory
+
+10) cp - copies files & folder to new location
+    Ex cp test.txt test_folder\test_changed.txt - rename also possible
+
+11) ln - creates link
+    Ex : ln test1.txt test1_link.txt [ Hard link test1.txt contenst linked to test1_link.txt file - If base file is missing no issue ]
+    Ex : ln -s test1.txt test1_link.txt [ Hard link test1.txt contenst linked to test1_link.txt file - If base file is missing then issue]
+
+12) File Permissions
+    Owner : Group : Others
+    Read - 4
+    Write - 2
+    Execute - 1 [ Clicking the directory & going inside]
+    ls test.txt shows 10 indexs -rw-rw-r--
+    	1st index -> Indicates file if it is a Directory it will show d
+        2nd,3rd,4th -> Indicates Owner has read,write,execute permission
+	5th,6th,7th -> Indicates Group has read,write,execute permission
+	8th,9th,10th -> Indicates Others has read,write,execute permission
+    
+13) ls - list the contents of directory
+    Ex: ls -la -> Human readable format with all the necessary details with hidden files as well
+ 
+14) chmod - changes the file permissions
+    Ex : chmod 777 test.txt [ owner -7, Group -7, Others -7 ]
+
+15) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
