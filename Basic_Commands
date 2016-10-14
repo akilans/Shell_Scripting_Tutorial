@@ -58,7 +58,30 @@ Linux Basic Commands:
 14) chmod - changes the file permissions
     Ex : chmod 777 test.txt [ owner -7, Group -7, Others -7 ]
 
-15) 
+15) wc - counts the number of lines words characters
+    Ex : wc test.txt -> 4 13 100 -> 4 lines, 13 words, 100 charaters
+
+16) sort - sorts the words in the files
+    Ex : sort test.txt
+
+17) cut - filter the file using the delimiter
+	    Akilan:Infosys:Bangalore
+	    Karuna:Infosys:Hyderabad
+	    Gayatri:Infosys:Pune
+
+    Ex : cut -d":" -f 1,3 test.txt
+
+	    Akilan:Bangalore
+	    Karuna:Hyderabad
+	    Gayatri:Pune
+ 
+18) dd - Convert files
+    Ex : dd if=test.txt of=test_new.txt conv=ucase [ This converts contents of test.txt file to capital ]
+
+19) man - manual of commands 
+    Ex : man ls -> list the use of ls comand & all the options
+
+20) 
 
 
 
