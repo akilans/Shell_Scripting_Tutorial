@@ -4,3 +4,9 @@
   && joining to commands
   grep -i akilan test.txt > result.txt && echo "Task completed";echo "check the result in result.txt file
   
+ 55) Add & remove user account by GUI
+      who - says who logged in
+      sudo login - change login to another user
+      
+ 56 7 57 ) When user logged in:
+     Track any user who has logged in 
