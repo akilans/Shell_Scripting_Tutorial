@@ -1,0 +1,6 @@
+54) Metadata characters 
+  ; - executing multiple commands in a single line
+  > append into some file
+  && joining to commands
+  grep -i akilan test.txt > result.txt && echo "Task completed";echo "check the result in result.txt file
+  
