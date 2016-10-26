@@ -1,16 +1,21 @@
+------------------------------------------
 #These are the basic intructions of linux
+------------------------------------------
+
 *)  Linux follows Directory Tree Structure '/' - is a root directory & under this all the other directories are available 
+*)  Each directory used for diffrent purposes
+*)  Permissions plays an important role in linux [ read , writes, Execute ]
 *)  Linux is open source & free
 *)  Terminal - It's the place where u can interacte with commands.[ File Manipulation, Accesss, User Account , Install & Uninsatll SW]
 *)  In Server version of Ubuntu & Other Distributions has no GUI. Only way to access the machine is Terminal only
 *)  Linux Kernal is the heart. All the distributions providers [ ubuntu, linux mint, Centos, Fedora, Redhat, Kali linux, etc] they will
     take the keral & they will modify & realease it their own linux version. That means "ubuntu, linux mint, Centos, Fedora, Redhat,
     Kali linux, etc ] all are Linux only
-*) 
 
-
-
+----------------
 Basic Commands:
+---------------
+
 *) pwd - present working Directory
 *) ls - listing all the files & directories in the directory
 *) cd - Change Directory
@@ -21,4 +26,10 @@ Basic Commands:
 *) touch - creates new file
 *) mv - moves the files & directory from source location to Destination  location
 *) cp - copies the files & directory from source location to Destination location
-*) 
+*) vim, nano - are terminal editor - Edit files using terminal
+*) gedit is like notepad
+
+-----------------------
+Basics Of Linux In detail
+------------------------
+*)
