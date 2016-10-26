@@ -5,7 +5,10 @@
 *)  Linux follows Directory Tree Structure '/' - is a root directory & under this all the other directories are available 
 *)  Each directory used for diffrent purposes
 *)  Permissions plays an important role in linux [ read , writes, Execute ]
-*)  Linux is open source & free
+*)  Linux is open source & free - Derived from UNIX, written in C -low level language [ Deals with register, processor ]
+*)  Low Level language - Close to the hardware - Machine language or Assembly Language [ Deals with arrays, loop, if, etc ]
+*)  High Level Language - Human language - to instruct the machine
+*)  Process of making High level language to Machine level language is called compile
 *)  Terminal - It's the place where u can interacte with commands.[ File Manipulation, Accesss, User Account , Install & Uninsatll SW]
 *)  In Server version of Ubuntu & Other Distributions has no GUI. Only way to access the machine is Terminal only
 *)  Linux Kernal is the heart. All the distributions providers [ ubuntu, linux mint, Centos, Fedora, Redhat, Kali linux, etc] they will
