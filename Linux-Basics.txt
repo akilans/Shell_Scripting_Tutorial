@@ -31,8 +31,43 @@ Basic Commands:
 *) cp - copies the files & directory from source location to Destination location
 *) vim, nano - are terminal editor - Edit files using terminal
 *) gedit is like notepad
+*) man & --help - tells the user usage of the command
+*) exit - exit the terminal
+*) reboot - reboot the machine
+*) 
 
 -----------------------
 Basics Of Linux In detail
 ------------------------
-*)
+History Of Linux:
+-----------------
+    All commercially  available computer systems were written in a code specifically developed for one system.  UNIX on the other hand needed only a small piece of that special code,  which is now commonly named the kernel.  This kernel is the only piece of code  that needs to be adapted for every specific system and forms the base of the  UNIX system.  The operating system and all other functions were built around  this kernel and written in a higher programming language, C.  This language was  especially developed for creating the UNIX system.  Using this new technique, it was much easier to develop an operating system that could run on many different  types of hardware
+    
+    Linus took unix kernal & started his OWN operating system for his use. Asked Questions& shared his code. People all over the world 
+Helped him & submitted the code. Now it is Linux
+
+*) "On a UNIX system, everything is a file; if something is not a file, it is a process."
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
