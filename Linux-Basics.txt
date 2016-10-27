@@ -34,7 +34,9 @@ Basic Commands:
 *) man & --help - tells the user usage of the command
 *) exit - exit the terminal
 *) reboot - reboot the machine
-*) 
+*) adduser newuser - add new user
+*) deluser --remove-home newuser - delete a user with their files
+*) sudo login - swith to other user account
 
 -----------------------
 Basics Of Linux In detail
@@ -47,6 +49,7 @@ History Of Linux:
 Helped him & submitted the code. Now it is Linux
 
 *) "On a UNIX system, everything is a file; if something is not a file, it is a process."
+
     
     
     
